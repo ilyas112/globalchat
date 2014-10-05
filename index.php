@@ -9,6 +9,7 @@ if(isset($_GET['logout'])){
 	fclose($fp);
 	
 	session_destroy();
+	--$connected;
 	header("Location: index.php"); //Redirect the user
 }
 
@@ -53,6 +54,8 @@ else{
 <div id="wrapper">
 	<div id="menu">
 		<p class="welcome">Welcome, <b><?php echo $_SESSION['name']; ?></b></p>
+		<br>
+		<p class="connected">Connected: <b><?php echo $connected; ?></b></p>
 		<p class="logout"><a href="info.html" target="_blank">Info</a>        <a id="exit" href="#">Exit</a></p>
 		<div style="clear:both"></div>
 	</div>	
@@ -94,7 +97,7 @@ $(document).ready(function(){
 				var newscrollHeight = $("#chatbox").attr("scrollHeight") - 20;
 				if(newscrollHeight > oldscrollHeight){
 					$("#chatbox").animate({ scrollTop: newscrollHeight }, 'normal'); //Autoscroll to bottom of div
-				}				
+				}
 		  	},
 		});
 	}

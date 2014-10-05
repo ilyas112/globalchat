@@ -60,3 +60,27 @@
 [04-Oct-2014 06:44:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home1/dm33/public_html/webchat/post.php on line 14
 [04-Oct-2014 06:44:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home1/dm33/public_html/webchat/post.php on line 14
 [04-Oct-2014 06:47:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home1/dm33/public_html/webchat/post.php on line 14
+[04-Oct-2014 22:34:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'debug' (T_STRING) in /home1/dm33/public_html/webchat/post.php on line 21
+[04-Oct-2014 22:34:39 America/Chicago] PHP Parse error:  syntax error, unexpected 'debug' (T_STRING) in /home1/dm33/public_html/webchat/post.php on line 21
+[04-Oct-2014 22:35:04 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /home1/dm33/public_html/webchat/post.php on line 21
+[04-Oct-2014 22:35:09 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /home1/dm33/public_html/webchat/post.php on line 21
+[04-Oct-2014 22:35:21 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /home1/dm33/public_html/webchat/post.php on line 21
+[04-Oct-2014 22:41:00 America/Chicago] PHP Fatal error:  Call to undefined function emote() in /home1/dm33/public_html/webchat/post.php on line 9
+[04-Oct-2014 22:41:01 America/Chicago] PHP Fatal error:  Call to undefined function emote() in /home1/dm33/public_html/webchat/post.php on line 9
+[04-Oct-2014 22:41:02 America/Chicago] PHP Fatal error:  Call to undefined function emote() in /home1/dm33/public_html/webchat/post.php on line 9
+[04-Oct-2014 22:41:07 America/Chicago] PHP Fatal error:  Call to undefined function emote() in /home1/dm33/public_html/webchat/post.php on line 9
+[04-Oct-2014 22:41:13 America/Chicago] PHP Fatal error:  Call to undefined function emote() in /home1/dm33/public_html/webchat/post.php on line 9
+[04-Oct-2014 22:41:15 America/Chicago] PHP Fatal error:  Call to undefined function emote() in /home1/dm33/public_html/webchat/post.php on line 9
+[04-Oct-2014 22:41:15 America/Chicago] PHP Fatal error:  Call to undefined function emote() in /home1/dm33/public_html/webchat/post.php on line 9
+[04-Oct-2014 22:41:15 America/Chicago] PHP Fatal error:  Call to undefined function emote() in /home1/dm33/public_html/webchat/post.php on line 9
+[04-Oct-2014 22:41:27 America/Chicago] PHP Warning:  fwrite(): 4 is not a valid stream resource in /home1/dm33/public_html/webchat/post.php on line 22
+[04-Oct-2014 22:41:30 America/Chicago] PHP Warning:  fwrite(): 4 is not a valid stream resource in /home1/dm33/public_html/webchat/post.php on line 22
+[04-Oct-2014 22:41:31 America/Chicago] PHP Warning:  fwrite(): 4 is not a valid stream resource in /home1/dm33/public_html/webchat/post.php on line 22
+[04-Oct-2014 22:50:48 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home1/dm33/public_html/webchat/post.php on line 8
+[04-Oct-2014 22:50:54 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home1/dm33/public_html/webchat/post.php on line 8
+[04-Oct-2014 22:50:56 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home1/dm33/public_html/webchat/post.php on line 8
+[04-Oct-2014 23:15:53 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home1/dm33/public_html/webchat/index.php on line 66
+[04-Oct-2014 23:15:56 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home1/dm33/public_html/webchat/index.php on line 66
+[04-Oct-2014 23:16:40 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home1/dm33/public_html/webchat/index.php on line 62
+[04-Oct-2014 23:18:45 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home1/dm33/public_html/webchat/index.php on line 62
+[04-Oct-2014 23:18:49 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home1/dm33/public_html/webchat/index.php on line 62

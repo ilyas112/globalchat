@@ -53,7 +53,9 @@ a {
  
 #menu { padding:12.5px 25px 12.5px 25px; }
  
-.welcome { float:left; }
+.welcome { float:left; padding-right: 50px;}
+
+.connected{ float:left; }
  
 .logout { float:right; }
  

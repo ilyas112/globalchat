@@ -34,7 +34,7 @@ a {
 	max-height: 450px;
 	min-height: 450px;
 	margin:0 auto;
-	margin-bottom:25px;
+	margin-bottom:5px;
 	padding:10px;
 	background:#fff;
 	height:90%;
@@ -43,7 +43,8 @@ a {
 	overflow:auto; }
  
 #usermsg {
-	width:395px;
+	width:80%;
+	height:10%;
 	border:1px solid #ACD8F0; }
  
 #submit { width: 60px; }

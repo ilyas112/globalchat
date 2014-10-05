@@ -53,7 +53,7 @@ else{
 <div id="wrapper">
 	<div id="menu">
 		<p class="welcome">Welcome, <b><?php echo $_SESSION['name']; ?></b></p>
-		<p class="logout"><a id="exit" href="#">Exit Chat</a></p>
+		<p class="logout"><a href="info.html" target="_blank">Info</a>        <a id="exit" href="#">Exit</a></p>
 		<div style="clear:both"></div>
 	</div>	
 	<div id="chatbox"><?php
@@ -98,7 +98,7 @@ $(document).ready(function(){
 		  	},
 		});
 	}
-	setInterval (loadLog, 500);	//Reload file every 2.5 seconds
+	setInterval (loadLog, 250);	//Reload file every 2.5 seconds
 	
 	//If user wants to end session
 	$("#exit").click(function(){

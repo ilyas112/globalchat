@@ -1,0 +1,62 @@
+[04-Oct-2014 02:34:19 America/Chicago] PHP Parse error:  syntax error, unexpected ''text'' (T_CONSTANT_ENCAPSED_STRING), expecting '&' or variable (T_VARIABLE) in /home1/dm33/public_html/webchat/post.php on line 11
+[04-Oct-2014 02:34:23 America/Chicago] PHP Parse error:  syntax error, unexpected ''text'' (T_CONSTANT_ENCAPSED_STRING), expecting '&' or variable (T_VARIABLE) in /home1/dm33/public_html/webchat/post.php on line 11
+[04-Oct-2014 02:34:23 America/Chicago] PHP Parse error:  syntax error, unexpected ''text'' (T_CONSTANT_ENCAPSED_STRING), expecting '&' or variable (T_VARIABLE) in /home1/dm33/public_html/webchat/post.php on line 11
+[04-Oct-2014 02:34:24 America/Chicago] PHP Parse error:  syntax error, unexpected ''text'' (T_CONSTANT_ENCAPSED_STRING), expecting '&' or variable (T_VARIABLE) in /home1/dm33/public_html/webchat/post.php on line 11
+[04-Oct-2014 02:34:24 America/Chicago] PHP Parse error:  syntax error, unexpected ''text'' (T_CONSTANT_ENCAPSED_STRING), expecting '&' or variable (T_VARIABLE) in /home1/dm33/public_html/webchat/post.php on line 11
+[04-Oct-2014 02:34:24 America/Chicago] PHP Parse error:  syntax error, unexpected ''text'' (T_CONSTANT_ENCAPSED_STRING), expecting '&' or variable (T_VARIABLE) in /home1/dm33/public_html/webchat/post.php on line 11
+[04-Oct-2014 02:34:24 America/Chicago] PHP Parse error:  syntax error, unexpected ''text'' (T_CONSTANT_ENCAPSED_STRING), expecting '&' or variable (T_VARIABLE) in /home1/dm33/public_html/webchat/post.php on line 11
+[04-Oct-2014 02:45:37 America/Chicago] PHP Warning:  Missing argument 1 for makeHyperlink(), called in /home1/dm33/public_html/webchat/post.php on line 5 and defined in /home1/dm33/public_html/webchat/post.php on line 11
+[04-Oct-2014 02:45:41 America/Chicago] PHP Warning:  Missing argument 1 for makeHyperlink(), called in /home1/dm33/public_html/webchat/post.php on line 5 and defined in /home1/dm33/public_html/webchat/post.php on line 11
+[04-Oct-2014 03:16:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home1/dm33/public_html/webchat/post.php on line 11
+[04-Oct-2014 03:16:30 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home1/dm33/public_html/webchat/post.php on line 11
+[04-Oct-2014 03:16:33 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home1/dm33/public_html/webchat/post.php on line 11
+[04-Oct-2014 03:16:43 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home1/dm33/public_html/webchat/post.php on line 11
+[04-Oct-2014 03:21:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home1/dm33/public_html/webchat/post.php on line 15
+[04-Oct-2014 03:21:13 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home1/dm33/public_html/webchat/post.php on line 15
+[04-Oct-2014 03:23:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home1/dm33/public_html/webchat/post.php on line 15
+[04-Oct-2014 03:23:12 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home1/dm33/public_html/webchat/post.php on line 15
+[04-Oct-2014 03:32:50 America/Chicago] PHP Parse error:  syntax error, unexpected '"<br></div>"' (T_CONSTANT_ENCAPSED_STRING) in /home1/dm33/public_html/webchat/post.php on line 6
+[04-Oct-2014 03:32:53 America/Chicago] PHP Parse error:  syntax error, unexpected '"<br></div>"' (T_CONSTANT_ENCAPSED_STRING) in /home1/dm33/public_html/webchat/post.php on line 6
+[04-Oct-2014 03:33:22 America/Chicago] PHP Parse error:  syntax error, unexpected '(' in /home1/dm33/public_html/webchat/post.php on line 6
+[04-Oct-2014 03:37:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home1/dm33/public_html/webchat/post.php on line 11
+[04-Oct-2014 03:37:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home1/dm33/public_html/webchat/post.php on line 11
+[04-Oct-2014 03:37:30 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home1/dm33/public_html/webchat/post.php on line 11
+[04-Oct-2014 03:38:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home1/dm33/public_html/webchat/post.php on line 11
+[04-Oct-2014 03:38:06 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home1/dm33/public_html/webchat/post.php on line 11
+[04-Oct-2014 03:38:11 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home1/dm33/public_html/webchat/post.php on line 11
+[04-Oct-2014 03:40:31 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home1/dm33/public_html/webchat/post.php on line 11
+[04-Oct-2014 03:40:42 America/Chicago] PHP Fatal error:  Call to undefined function parseURL() in /home1/dm33/public_html/webchat/post.php on line 5
+[04-Oct-2014 03:40:45 America/Chicago] PHP Fatal error:  Call to undefined function parseURL() in /home1/dm33/public_html/webchat/post.php on line 5
+[04-Oct-2014 03:46:29 America/Chicago] PHP Warning:  Missing argument 1 for auto_link_text(), called in /home1/dm33/public_html/webchat/post.php on line 5 and defined in /home1/dm33/public_html/webchat/post.php on line 17
+[04-Oct-2014 03:46:34 America/Chicago] PHP Warning:  Missing argument 1 for auto_link_text(), called in /home1/dm33/public_html/webchat/post.php on line 5 and defined in /home1/dm33/public_html/webchat/post.php on line 17
+[04-Oct-2014 03:46:38 America/Chicago] PHP Warning:  Missing argument 1 for auto_link_text(), called in /home1/dm33/public_html/webchat/post.php on line 5 and defined in /home1/dm33/public_html/webchat/post.php on line 17
+[04-Oct-2014 03:46:42 America/Chicago] PHP Warning:  Missing argument 1 for auto_link_text(), called in /home1/dm33/public_html/webchat/post.php on line 5 and defined in /home1/dm33/public_html/webchat/post.php on line 17
+[04-Oct-2014 06:14:13 America/Chicago] PHP Parse error:  syntax error, unexpected '$text' (T_VARIABLE) in /home1/dm33/public_html/webchat/post.php on line 6
+[04-Oct-2014 06:14:18 America/Chicago] PHP Parse error:  syntax error, unexpected '$text' (T_VARIABLE) in /home1/dm33/public_html/webchat/post.php on line 6
+[04-Oct-2014 06:14:54 America/Chicago] PHP Parse error:  syntax error, unexpected '$text' (T_VARIABLE) in /home1/dm33/public_html/webchat/post.php on line 6
+[04-Oct-2014 06:15:13 America/Chicago] PHP Parse error:  syntax error, unexpected 'parseURL' (T_STRING) in /home1/dm33/public_html/webchat/post.php on line 12
+[04-Oct-2014 06:15:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'parseURL' (T_STRING) in /home1/dm33/public_html/webchat/post.php on line 12
+[04-Oct-2014 06:15:21 America/Chicago] PHP Parse error:  syntax error, unexpected 'parseURL' (T_STRING) in /home1/dm33/public_html/webchat/post.php on line 12
+[04-Oct-2014 06:15:47 America/Chicago] PHP Parse error:  syntax error, unexpected 'parseURL' (T_STRING) in /home1/dm33/public_html/webchat/post.php on line 12
+[04-Oct-2014 06:15:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'parseURL' (T_STRING) in /home1/dm33/public_html/webchat/post.php on line 12
+[04-Oct-2014 06:15:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'parseURL' (T_STRING) in /home1/dm33/public_html/webchat/post.php on line 12
+[04-Oct-2014 06:15:52 America/Chicago] PHP Parse error:  syntax error, unexpected 'parseURL' (T_STRING) in /home1/dm33/public_html/webchat/post.php on line 12
+[04-Oct-2014 06:19:51 America/Chicago] PHP Warning:  preg_replace() expects at least 3 parameters, 2 given in /home1/dm33/public_html/webchat/post.php on line 7
+[04-Oct-2014 06:19:54 America/Chicago] PHP Warning:  preg_replace() expects at least 3 parameters, 2 given in /home1/dm33/public_html/webchat/post.php on line 7
+[04-Oct-2014 06:19:55 America/Chicago] PHP Warning:  preg_replace() expects at least 3 parameters, 2 given in /home1/dm33/public_html/webchat/post.php on line 7
+[04-Oct-2014 06:20:08 America/Chicago] PHP Warning:  preg_replace() expects at least 3 parameters, 2 given in /home1/dm33/public_html/webchat/post.php on line 7
+[04-Oct-2014 06:22:54 America/Chicago] PHP Parse error:  syntax error, unexpected '$text' (T_VARIABLE) in /home1/dm33/public_html/webchat/post.php on line 7
+[04-Oct-2014 06:23:10 America/Chicago] PHP Parse error:  syntax error, unexpected '$text' (T_VARIABLE) in /home1/dm33/public_html/webchat/post.php on line 7
+[04-Oct-2014 06:23:13 America/Chicago] PHP Parse error:  syntax error, unexpected '$text' (T_VARIABLE) in /home1/dm33/public_html/webchat/post.php on line 7
+[04-Oct-2014 06:23:28 America/Chicago] PHP Parse error:  syntax error, unexpected '$text' (T_VARIABLE) in /home1/dm33/public_html/webchat/post.php on line 7
+[04-Oct-2014 06:23:38 America/Chicago] PHP Parse error:  syntax error, unexpected '$text' (T_VARIABLE) in /home1/dm33/public_html/webchat/post.php on line 7
+[04-Oct-2014 06:40:37 America/Chicago] PHP Parse error:  syntax error, unexpected '$fp' (T_VARIABLE) in /home1/dm33/public_html/webchat/post.php on line 9
+[04-Oct-2014 06:40:41 America/Chicago] PHP Parse error:  syntax error, unexpected '$fp' (T_VARIABLE) in /home1/dm33/public_html/webchat/post.php on line 9
+[04-Oct-2014 06:40:48 America/Chicago] PHP Parse error:  syntax error, unexpected '$fp' (T_VARIABLE) in /home1/dm33/public_html/webchat/post.php on line 9
+[04-Oct-2014 06:40:54 America/Chicago] PHP Parse error:  syntax error, unexpected '$fp' (T_VARIABLE) in /home1/dm33/public_html/webchat/post.php on line 9
+[04-Oct-2014 06:41:25 America/Chicago] PHP Parse error:  syntax error, unexpected '$text' (T_VARIABLE) in /home1/dm33/public_html/webchat/post.php on line 17
+[04-Oct-2014 06:42:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home1/dm33/public_html/webchat/post.php on line 14
+[04-Oct-2014 06:42:41 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home1/dm33/public_html/webchat/post.php on line 14
+[04-Oct-2014 06:44:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home1/dm33/public_html/webchat/post.php on line 14
+[04-Oct-2014 06:44:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home1/dm33/public_html/webchat/post.php on line 14
+[04-Oct-2014 06:47:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home1/dm33/public_html/webchat/post.php on line 14
